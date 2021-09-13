@@ -1,4 +1,6 @@
 body{
     background-color: cyan;
     /* first time */
+    margin:none;
+    /* second time */
 }
